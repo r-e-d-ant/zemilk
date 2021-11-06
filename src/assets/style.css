@@ -1,0 +1,91 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap');
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-clr: #133039;
+    --white-clr: #F7FBFC;
+    --white-clr-alt: #475D64;
+    --input-border-clr: #e1e1e17a;
+    --hook-bg-clr: #e1e1e157;
+    --card-clr: #F2F6F7;
+    --gray-clr: #99A7AB;
+    --gray-clr-alt: #85959A;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* -- BASE -- */
+li,
+ul {
+    list-style: none;
+}
+img {
+    height: auto;
+    width: 100%;
+}
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
+.container {
+    padding: .5rem;
+}
+@media screen and (min-width: 768px) {
+    .container {
+        padding: 0 1rem;
+    }
+}
+
+body {
+    background-color: var(--white-clr);
+    color: var(--primary-clr);
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.logo {
+    color: var(--white-clr);
+    text-decoration: none;
+    font-family: 'Fruktur', cursive;
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.call-action {
+    background-color: var(--white-clr);
+    color: var(--primary-clr);
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 1rem 2rem;
+    border-radius: 45px;
+    transition: background-color 150ms;
+}
+
+.section-title {
+    font-size: 1.4rem;
+    font-weight: 500;
+    max-width: 30rem;
+    margin-bottom: 1.5rem;
+}
+@media screen and (min-width: 768px) {
+    /* -- section two -- */
+    .section-title {
+        font-size: 1.5rem;
+        margin-bottom: 1.8rem;
+    }
+}
