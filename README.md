@@ -3,7 +3,9 @@
 ZeMilk is a Milk selling agency website built in VueJS
 ## Screen Shots
 * Home page
+
 Hero section
+
 ![hero](https://user-images.githubusercontent.com/66163130/140617822-1d25a3ef-9dd5-469d-8fb8-9699351ef5b5.png)
 
 Benefit part
