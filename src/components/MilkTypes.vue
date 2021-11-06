@@ -3,17 +3,17 @@
     <!-- section two -->
         <section class="section milk__type-section container" id="milks-types">
             <h2 class="section-title">
-                Curabitur luctus ut dolor sed porttitor. Pellentesque in ipsum congue
+                ZeMilk have tremendous different kind of milk which satisfy everyone
             </h2>
             <div class="milk-types-container">
                 <!-- Milk type one -->
                 <div class="milk-type">
                     <img src="../assets/images/milk1.png" alt="milk type">
                     <div class="milk-type-info-container">
-                        <h3>Maecenas lacinia tristique interdum</h3>
+                        <h3>Delicious milk to drink at place</h3>
                         <p>
-                            Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor.
-                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet
+                            Etiam lacus ex, volutpat at massa at, laoreet mollis ipsum. Sed
+                            eu efficitur augue. Mauris vel cursus mi Cras ac molestie
                         </p>
                     </div>
                 </div>
@@ -22,10 +22,10 @@
                 <div class="milk-type">
                     <img src="../assets/images/milk2.png" alt="milk type">
                     <div class="milk-type-info-container">
-                        <h3>Maecenas lacinia tristique interdum</h3>
+                        <h3>Yummy and soft milk for take away</h3>
                         <p>
-                            Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor.
-                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet
+                            Nam tincidunt vehicula lectus, at maximus lorem suscipit vitae.
+                            Nam mattis massa at diam facilisis, sit amet aliquet
                         </p>
                     </div>
                 </div>
@@ -34,10 +34,10 @@
                 <div class="milk-type">
                     <img src="../assets/images/milk3.png" alt="milk type">
                     <div class="milk-type-info-container">
-                        <h3>Maecenas lacinia tristique interdum</h3>
+                        <h3>Yummy milk which last long days</h3>
                         <p>
-                            Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor.
-                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet
+                            Proin eleifend, sapien et ullamcorper aliquet, enim nisl auctor ex,
+                            ut convallis massa nisl nec metus. Curabitur
                         </p>
                     </div>
                 </div>
@@ -46,10 +46,10 @@
                 <div class="milk-type">
                     <img src="../assets/images/milk4.png" alt="milk type">
                     <div class="milk-type-info-container">
-                        <h3>Maecenas lacinia tristique interdum</h3>
+                        <h3>Milk to take miles away and stay soft</h3>
                         <p>
                             Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor.
-                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet
+                            Maecenas lacinia tristique interdum. Donec eu quam
                         </p>
                     </div>
                 </div>
@@ -99,6 +99,8 @@ h3 {
 p {
     max-width: 18rem;
     line-height: 1.5;
+    font-weight: 200;
+    font-size: 1.15rem;
 }
 
 @media screen  and (min-width: 1024px) {

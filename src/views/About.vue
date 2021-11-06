@@ -10,7 +10,7 @@
                     <div class="zemilk-history-container">
                         <div class="zemilk-years">2009 - 2013</div>
                         <p class="history">
-                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet, elementum sapien. Ut nec rhoncus turpis, ac viverra ipsum. Morbi a vestibulum lorem. Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor. Nunc ut quam in elit feugiat vehicula.
+                            Phasellus vestibulum ex non risus ultricies, a ullamcorper velit ultricies. Morbi lacinia ornare est lacinia ornare. In et pulvinar elit. Suspendisse sit amet condimentum libero, quis pretium sem. Nam rhoncus scelerisque porta. Aenean dolor sem
                         </p>
                         <p class="history">
                             Praesent eget efficitur urna. Fusce efficitur, elit et dignissim suscipit, augue enim convallis arcu, a rutrum sapien libero quis ante.
@@ -23,10 +23,10 @@
                     <div class="zemilk-history-container">
                         <div class="zemilk-years">2013 - 2016</div>
                         <p class="history">
-                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet, elementum sapien. Ut nec rhoncus turpis, ac viverra ipsum. Morbi a vestibulum lorem. Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor. Nunc ut quam in elit feugiat vehicula.
+                            Donec nisl tellus, blandit nec mauris eget, tincidunt ornare nibh. Donec nunc turpis, elementum vel scelerisque id, tristique eu urna. Morbi lectus leo, maximus ut interdum ac, sagittis sed libero.
                         </p>
                         <p class="history">
-                            Praesent eget efficitur urna. Fusce efficitur, elit et dignissim suscipit, augue enim convallis arcu, a rutrum sapien libero quis ante.
+                            Duis ultricies tellus non tortor sollicitudin, vitae ultrices neque tempor. Aliquam sodales semper nisl, sit amet rutrum velit consequat
                         </p>
                     </div>
                     <img src="../assets/images/hist2.png" alt="">
@@ -38,10 +38,10 @@
                     <div class="zemilk-history-container">
                         <div class="zemilk-years">2016 - 2018</div>
                         <p class="history">
-                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet, elementum sapien. Ut nec rhoncus turpis, ac viverra ipsum. Morbi a vestibulum lorem. Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor. Nunc ut quam in elit feugiat vehicula.
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur quis eros pulvinar consectetur. Ut ante eros, euismod eget Phasellus posuere sapien in iaculis cursus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos
                         </p>
                         <p class="history">
-                            Praesent eget efficitur urna. Fusce efficitur, elit et dignissim suscipit, augue enim convallis arcu, a rutrum sapien libero quis ante.
+                            Curabitur eget dui augue. Suspendisse consequat est in cursus volutpat.
                         </p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                     <div class="zemilk-history-container">
                         <div class="zemilk-years">2018 - 2021</div>
                         <p class="history">
-                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet, elementum sapien. Ut nec rhoncus turpis, ac viverra ipsum. Morbi a vestibulum lorem. Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor. Nunc ut quam in elit feugiat vehicula.
+                            Maecenas lacinia tristique interdum. Donec eu quam efficitur, ultrices ex sit amet, elementum sapien. Ut nec rhoncus turpis, ac viverra ipsum. Morbi a vestibulum lorem. Fusce ut lacus volutpat, sagittis sapien quis, ultricies tortor.
                         </p>
                         <p class="history">
                             Praesent eget efficitur urna. Fusce efficitur, elit et dignissim suscipit, augue enim convallis arcu, a rutrum sapien libero quis ante.
@@ -130,7 +130,7 @@ img {
 }
 
 .zemilk-years {
-    font-weight: 600;
+    font-weight: 400;
     color: var(--white-clr-alt);
     margin-bottom: .3rem 0;
 }
@@ -144,7 +144,8 @@ img {
 }
 
 .history {
-    font-size: 1rem;
+    font-weight: 200;
+    font-size: 1.1rem;
     max-width: 25rem;
     margin-bottom: 1rem;
 }

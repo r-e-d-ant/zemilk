@@ -13,17 +13,17 @@
             <div class="benefits-section">
                 <div class="benefit-one benefit">
                     <span class="no">01</span>
-                    <h2 class="benefit-title">Lorem ipsum dolor</h2>
-                    <p class="benefit-desc">consectetur adipiscing elit. Aenean est ex, suscipit id felis amet, tincidunt lacinia metus. Nulla congue</p>
+                    <h2 class="benefit-title">Yummy milk</h2>
+                    <p class="benefit-desc">Donec nisl tellus, blandit nec mauris eget, tincidunt ornare nibh. Donec nunc turpis, elementum vel</p>
                 </div>
                 <div class="benefit-two benefit">
                     <span class="no">02</span>
-                    <h2 class="benefit-title">Curabitur luctus ut</h2>
-                    <p class="benefit-desc">consectetur adipiscing elit. Aenean est ex, suscipit id felis amet, tincidunt lacinia metus. Nulla congue</p>
+                    <h2 class="benefit-title">No Additive</h2>
+                    <p class="benefit-desc">Phasellus vestibulum ex non risus ultricies, a ullamcorper velit ultricies. Morbi lacinia ornare est lacinia</p>
                 </div>
                 <div class="benefit-three benefit">
                     <span class="no">03</span>
-                    <h2 class="benefit-title">Maecenas lacinia</h2>
+                    <h2 class="benefit-title">Rich in protein</h2>
                     <p class="benefit-desc">consectetur adipiscing elit. Aenean est ex, suscipit id felis amet, tincidunt lacinia metus. Nulla congue</p>
                 </div>
             </div>
@@ -84,6 +84,7 @@ export default {
     font-size: 2.9rem;
     font-weight: 800;
     max-width: 35rem;
+    letter-spacing: .2rem;
 }
 .hero-sub__title {
     color: var(--white-clr);
@@ -172,24 +173,19 @@ export default {
     font-size: 1.2rem;
     font-weight: 600;
     color: var(--gray-clr);
+    opacity: .5;
 }
 .benefit
 .benefit-title {
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 400;
     margin-bottom: .5rem;
+    margin-top: 1rem;
 }
 .benefit
 .benefit-desc {
-    font-size: 1.05rem;
-    line-height: 1.5;
-}
-@media screen and (min-width: 768px) {
-    .benefit
-    .benefit-title {
-        font-size: 1.5rem;
-        font-weight: 600;
-        margin-bottom: .5rem;
-    }
+    font-size: 1.1rem;
+    line-height: 1.6;
+    font-weight: 200;
 }
 </style>

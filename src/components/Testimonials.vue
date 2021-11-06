@@ -3,8 +3,7 @@
     <!-- section three -->
         <section class="section testimonials-section container">
             <h2 class="section-title">
-                Curabitur luctus ut dolor sed porttitor.
-                Pellentesque in ipsum congue
+                ZeMilk Customers don't hesitate to give good testimonials every moment
             </h2>
             <div class="testimonials-n-sponsors-container">
                 <div class="testimonials-container">
@@ -29,8 +28,7 @@
                 <div class="sponsors container"></div>
                 <div class="middle-call-to-action">
                     <h2>
-                        Curabitur luctus ut dolor sed porttitor.
-                        Pellentesque in ipsum congue
+                        What are you waiting to be ZeMilk client and start getting good quality Milk
                     </h2>
                     <a class="call-action" href="#">Become Client</a>
                 </div>
