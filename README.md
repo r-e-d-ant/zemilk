@@ -2,7 +2,7 @@
 
 ZeMilk is a Milk selling agency website built in VueJS
 ## Screen Shots
-* Home
+* Home page
 Hero section
 ![hero](https://user-images.githubusercontent.com/66163130/140617822-1d25a3ef-9dd5-469d-8fb8-9699351ef5b5.png)
 
@@ -18,6 +18,12 @@ Testimonials and call to action section
 Footer section
 ![footer](https://user-images.githubusercontent.com/66163130/140617877-5b0fc9d5-5dba-42a6-8faa-a5726e12d431.png)
 
+* About page
+![Screen Shot 2021-11-06 at 6 53 10 PM](https://user-images.githubusercontent.com/66163130/140617921-bbb1ad1e-cae0-4323-84c2-04a549e521e4.png)
+![Screen Shot 2021-11-06 at 6 53 20 PM](https://user-images.githubusercontent.com/66163130/140617925-78e828b5-a93d-45e7-9168-c4fb69ee7c81.png)
+
+* Contact page
+![Screen Shot 2021-11-06 at 6 53 55 PM](https://user-images.githubusercontent.com/66163130/140617966-787a4c2e-6850-4d14-b4fb-e0bb650d7ea9.png)
 
 ## Project setup
 ```
