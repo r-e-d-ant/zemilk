@@ -80,7 +80,7 @@ export default {
 }
 .hero-title {
     color: var(--white-clr);
-     font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 2.9rem;
     font-weight: 800;
     max-width: 35rem;
