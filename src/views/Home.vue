@@ -80,7 +80,7 @@ export default {
 }
 .hero-title {
     color: var(--white-clr);
-    font-family: 'Fruktur', cursive;
+     font-family: 'Raleway', sans-serif;
     font-size: 2.9rem;
     font-weight: 800;
     max-width: 35rem;
@@ -88,10 +88,11 @@ export default {
 }
 .hero-sub__title {
     color: var(--white-clr);
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 1rem;
-    font-weight: 600;
-    max-width: 28rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    max-width: 30rem;
+    line-height: 2rem;
     margin-top: .8rem;
     margin-bottom: 2rem;
 }
@@ -111,14 +112,14 @@ export default {
 
 @media screen and (min-width: 700px) {
     .hero-title {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
     .hero-sub__title {
-        font-size: 1.5rem;
-        font-weight: 400;
+        font-size: 1.3rem;
         margin-top: 1.2rem;
         margin-bottom: 4rem;
-        max-width: 50rem;
+        max-width: 30rem;
+        line-height: 2rem;
     }
     .hook-container a {
         padding: 1rem 4rem;
@@ -126,14 +127,10 @@ export default {
 }
 @media screen and (min-width: 1024px) {
     .hero-title {
-        font-size: 5rem;
+        font-size: 4rem;
         font-weight: 800;
-        line-height: 6rem;
-        max-width: 60rem;
-    }
-    .hero-sub__title {
-        font-size: 1.6rem;
-        max-width: 40rem;
+        line-height: 5rem;
+        max-width: 55rem;
     }
 }
 
